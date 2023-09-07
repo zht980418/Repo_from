@@ -7,4 +7,7 @@ public class class4otherUse {
     public class4otherUse(){
 
     }
+    public void commit2(){
+
+    }
 }
