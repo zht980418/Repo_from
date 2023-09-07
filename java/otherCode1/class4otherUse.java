@@ -10,4 +10,8 @@ public class class4otherUse {
     public void commit2(){
 
     }
+
+    public void commit4(){
+
+    }
 }
